@@ -1,7 +1,7 @@
 # Lacrima
 
 ## What is Lacrima
-**Lacrima** is a lightweight game engine with high-fidelity graphics rendering and simulation functions, provides a flexible gameplay framework, and will mainly focus on AIGC technologies in the future. Lacrima uses vulkan as the only graphics/computing api, and is written in C++17.
+**Lacrima** is a lightweight game engine with high-fidelity graphics rendering and simulation functions, provides a flexible gameplay framework, and will mainly focus on AIGC technologies in the future. Lacrima uses vulkan as the only graphics/computing api, and is written in C++.
 ![1](snapshot/robot.png)
 
 ![2](snapshot/sponza.png)
